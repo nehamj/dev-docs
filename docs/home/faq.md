@@ -6,7 +6,7 @@ Sign up for the free Esper Trial! Create an endpoint for your company to run all
 
 ## How long does the Esper Trial last?
 
-The Esper Trial lasts for 6 months after your endpoint is created, and is intended for development and evaluation use - not for commercial deployments. Contact Esper if you have any further questions about the Trial, we’d be happy to help.
+The Esper Starter Plan is free forever once your endpoint is created, and is intended for development and evaluation use - not for commercial deployments. Contact Esper if you have any further questions about the Trial, we’d be happy to help.
 
 ## Can I invite other members of my team to use the Esper Trial?
 
@@ -137,7 +137,7 @@ Approve a preloaded app to show in the device from the list of apps in Device-Ap
 3.  Click on the Apps tab (see image below)
 4.  Choose the App you wish you install from the dropdown menu and click Install app.
 
-This should work for installing the apks that you have uploaded in the system. You can upload your apks from the [Apps section](./console.md#apps).
+This should work for installing the apks that you have uploaded in the system. You can upload your apks from the [Apps section](https://console-docs.esper.io/apps/).
 
 #### Google Apps
 
@@ -235,7 +235,7 @@ In the Devices & Groups section, user will see a 'Compliance Policy' tab under w
 
 ![Esper Device Template](./assets/faq/device-template-faq4.png)
 
-[Know more about Compliance Policy](./console.md#compliance-policy).
+[Know more about Compliance Policy](https://console-docs.esper.io/compliance-policy/).
 
 ## I am not able to open my app (for example - true caller) as permissions are not provided to the app and I am getting a message that ths is controlled by admin?
 
